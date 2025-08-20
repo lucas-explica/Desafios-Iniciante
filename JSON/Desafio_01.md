@@ -13,4 +13,4 @@ Você está criando um sistema simples para gerenciar informações de um **prod
    - **garantia_em_meses** (número)
 
 #### **Tarefa**
-Com base nos requisitos acima, crie um JSON que represente um produto fictício. Use valores simples e fictícios para preencher os campos.
+Com base nos requisitos acima, crie um JSON que represente um ou mais produtos fictício. Use valores simples e fictícios para preencher os campos.
